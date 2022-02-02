@@ -1,4 +1,4 @@
-# A Breakable Toy Experiment
+
 
 ## Requisites
 -node and npm installed
